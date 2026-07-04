@@ -714,3 +714,15 @@ MIT License - Feel free to use for learning!
 - [By Topic](./by_topic.md)
 - [Interview Tips](./interview_tips.md)
 - [Progress Tracker](./progress.md)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/adii0018/DSA/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/adii0018/DSA/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
