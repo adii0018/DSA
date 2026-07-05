@@ -18,21 +18,7 @@
 ---
 
 ## 📈 Progress Tracker
-
-```
-Easy      ████████░░░░░░░░░░░  40% (60/150)
-Medium    ███░░░░░░░░░░░░░░░░  15% (25/170)
-Hard      █░░░░░░░░░░░░░░░░░░   3% (5/100)
-─────────────────────────────────────
-Total:    90/420 Problems Solved ✅
-```
-
-| Difficulty | Total | Solved | Acceptance | Status |
-|-----------|-------|--------|-----------|--------|
-| 🟢 **Easy** | 150+ | 60 | 75%+ | 🔄 In Progress |
-| 🟡 **Medium** | 170+ | 25 | 45%+ | 🔄 In Progress |
-| 🔴 **Hard** | 100+ | 5 | 25%+ | ⏳ Coming Soon |
-
+Arrays → Strings → Hashing (Set/Dictionary) → Two Pointers → Sliding Window → Stack → Queue → Linked List → Binary Search → Recursion → Sorting → Trees → Heap → Graph → Dynamic Programming
 ---
 
 ## 📚 Solution Index
