@@ -707,6 +707,7 @@ MIT License - Feel free to use for learning!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adii0018/DSA/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/adii0018/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/adii0018/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/adii0018/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/adii0018/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -715,6 +716,7 @@ MIT License - Feel free to use for learning!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adii0018/DSA/tree/main/0001-two-sum/) | Easy |
+| [0036-valid-sudoku](https://github.com/adii0018/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/adii0018/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/adii0018/DSA/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/adii0018/DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -755,4 +757,8 @@ MIT License - Feel free to use for learning!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/adii0018/DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0036-valid-sudoku](https://github.com/adii0018/DSA/tree/main/0036-valid-sudoku/) | Medium |
 <!---LeetCode Topics End-->
