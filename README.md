@@ -767,4 +767,8 @@ MIT License - Feel free to use for learning!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/adii0018/DSA/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/adii0018/DSA/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
