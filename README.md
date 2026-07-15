@@ -717,6 +717,7 @@ MIT License - Feel free to use for learning!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/adii0018/DSA/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/adii0018/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/adii0018/DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/adii0018/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0217-contains-duplicate](https://github.com/adii0018/DSA/tree/main/0217-contains-duplicate/) | Easy |
@@ -732,6 +733,7 @@ MIT License - Feel free to use for learning!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/adii0018/DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/adii0018/DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/adii0018/DSA/tree/main/0242-valid-anagram/) | Easy |
 ## Divide and Conquer
@@ -771,4 +773,5 @@ MIT License - Feel free to use for learning!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/adii0018/DSA/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/adii0018/DSA/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
